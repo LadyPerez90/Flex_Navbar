@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: "Montserrat", sans-serif;
+    color:white;
+    text-decoration: none;
+}
+.navbar {
+    display: flex;
+    margin:20px;
+    padding:10px;
+    background-color: rgb(85, 151, 252);
+    align-items: center;
+    align-self: flex-start
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+}
+
+h1 {
+    color: white;
+    font-family: "Montserrat", Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 80px;
+
+}
+
+ul, li {
+    display: inline;
+    align-items: row;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
